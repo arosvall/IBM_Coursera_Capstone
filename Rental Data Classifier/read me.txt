@@ -15,3 +15,5 @@ In order to complete this assignment, the WEKA software (https://www.cs.waikato.
 
 This was the first assignment for ML that had no direct instructions and was left up to student interpretation, hence the explanations of direction in the report
 The dataset used in this assignment is also uploaded to show what was being worked from
+
+This assignment achieved an A- grade
