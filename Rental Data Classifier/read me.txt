@@ -1,0 +1,17 @@
+This was the second assignment for the Machine Learning Tools and Techniques paper
+The core motivation at the heart of this assignment was:
+“Wellington’s skyrocketing rental prices are not an issue in some of the provinces 10:51, Jan 25 2018 Stuﬀ” 
+“Wellington rental prices match Auckland as property listings plummet 21:44, Feb 26 2018 Stuﬀ” 
+“Wellington’s rental prices cool, national rent stays at record high 08:02, Mar 26 2018 Stuﬀ” 
+“Rents rise around the country as cost crunch goes on landlords 14:07, Apr 16 2018 Stuﬀ”
+
+Study at Victoria Day is August 31, 2018, where many future scholars and their parents will have concerns regarding the reported high rental costs in Wellington. Anecdotal evidence suggests that prospective students will be put-oﬀ from enrolling due to this perceived issue, which has major ﬁnancial consequences for the University.
+
+The task was to use an introductory version of the CRISP-DM model of data analysis along with machine learning tools and techniques to evaluate whether there was evidence to back up these media statements
+There were two obvious ways in which this could be approached: One, by building a regression model which predicted the price of a property based on its attributes, or Two: making a classification model of affordability for students based on attributes such as student income, house type, location etc.
+As part of this assignment, I also chose to compare Wellington to the two major competing University cities, Auckland and Dunedin, and to look at the suburbs closest to the universities as well as the CBDs.
+
+In order to complete this assignment, the WEKA software (https://www.cs.waikato.ac.nz/ml/weka/) was used. There is no code written in jupyter notebooks however there are screenshots of how the WEKA software was used in the reports.
+
+This was the first assignment for ML that had no direct instructions and was left up to student interpretation, hence the explanations of direction in the report
+The dataset used in this assignment is also uploaded to show what was being worked from
